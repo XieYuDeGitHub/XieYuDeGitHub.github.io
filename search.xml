@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>你好,Blog</title>
+      <link href="/posts/5e62d7af.html"/>
+      <url>/posts/5e62d7af.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="你好博客"><a href="#你好博客" class="headerlink" title="你好博客"></a>你好博客</h1><p>第一次搭建博客，做个纪念</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title></title>
+      <link href="/manifest.json"/>
+      <url>/manifest.json</url>
+      
+        <content type="html"><![CDATA[{"name":"谢宇","short_name":"谢宇","theme_color":"#425aef","background_color":"#425aef","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
